@@ -1,0 +1,7 @@
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\obj\Debug\Лаба 1.1 Пакулов.csproj.AssemblyReference.cache
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\obj\Debug\Лаба 1.1 Пакулов.csproj.CoreCompileInputs.cache
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\bin\Debug\Лаба 1.1 Пакулов.exe.config
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\bin\Debug\Лаба 1.1 Пакулов.exe
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\bin\Debug\Лаба 1.1 Пакулов.pdb
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\obj\Debug\Лаба 1.1 Пакулов.exe
+C:\Users\Ura\source\repos\Лаба 1.1 Пакулов\Лаба 1.1 Пакулов\obj\Debug\Лаба 1.1 Пакулов.pdb

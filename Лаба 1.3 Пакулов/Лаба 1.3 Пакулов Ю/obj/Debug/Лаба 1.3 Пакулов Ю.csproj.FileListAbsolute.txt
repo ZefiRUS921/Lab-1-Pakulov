@@ -1,0 +1,15 @@
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.csproj.AssemblyReference.cache
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\MainWindow.g.cs
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\App.g.cs
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю_MarkupCompile.cache
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю_MarkupCompile.lref
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\bin\Debug\Лаба 1.3 Пакулов Ю.exe.config
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\bin\Debug\Лаба 1.3 Пакулов Ю.exe
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\bin\Debug\Лаба 1.3 Пакулов Ю.pdb
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\MainWindow.baml
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.g.resources
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба_1._3_Пакулов_Ю.Properties.Resources.resources
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.csproj.GenerateResource.cache
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.csproj.CoreCompileInputs.cache
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.exe
+C:\Users\Ura\source\repos\Лаба 1.3 Пакулов Ю\Лаба 1.3 Пакулов Ю\obj\Debug\Лаба 1.3 Пакулов Ю.pdb
